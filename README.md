@@ -1,5 +1,5 @@
 # Shooting_Range_Automation
-This readmi has not been completed yet!
+This readme has not been completed yet!
 ---------------------------------------------------------------------------------------------------------
 This project was made for the purpose of a school project to learn: C#, Windows Form and .NET in 30 days.
 ---------------------------------------------------------------------------------------------------------
