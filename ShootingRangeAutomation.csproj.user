@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\User\Desktop\OTOMASYON\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Admin\Accounting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\AdminBoardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Appointment\AppointmentList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Appointment\AppointmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee\EmployeeBoardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee\EmployeeList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Equipment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Initializer_And_Methods\FirstChoose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Weapons_And_Guns\GunsDisplay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\LoginAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\LoginEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\LoginMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Member\MemberAppointmentList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Member\MemberBoardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee\EmployeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Member\MemberList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Member\MemberListPersonalInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignIn\newMemberSignIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Person_Specifiers\PersonalInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
