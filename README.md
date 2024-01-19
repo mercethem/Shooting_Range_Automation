@@ -18,7 +18,7 @@ Weapon, pistol and equipments pictures taken from SIG SAUER 2023 Catalog
 ![ Alt text](member_board.png)  [](member_board.png)
 ![ Alt text](appointment_ccchange_list.png)  [](appointment_ccchange_list.png)
 ![ Alt text](member_list.png)  [](member_list.png)
-![ Alt text](member_list.png)  [](member_list.png)
+![ Alt text](admin_board.png)  [](admin_board.png)
 ![ Alt text](member_list.png)  [](member_list.png)
 ![ Alt text](member_list.png)  [](member_list.png)
 ![ Alt text](member_list.png)  [](member_list.png)
