@@ -8,11 +8,11 @@ Weapon, pistol and equipments pictures taken from SIG SAUER 2023 Catalog
 ---------------------------------------------------------------------------------------------------------
 ## Start Screen:
 
-![ Alt text](start.png)  [](start.png)
+![ Alt text](screenshoots/start.png)  [](screenshoots/start.png)
 
 ## Sign In Screen:
 
-![ Alt text](signin.png)  [](signin.png)
+![ Alt text](screenshoots/signin.png)  [](screenshoots/signin.png)
 <br />
 </a>
 
@@ -20,23 +20,23 @@ Weapon, pistol and equipments pictures taken from SIG SAUER 2023 Catalog
 
 ## Member Login Screen:
 
-![ Alt text](login.png)  [](login.png)
+![ Alt text](screenshoots/login.png)  [](screenshoots/login.png)
 
 ## Member Board Screen:
 
-![ Alt text](member_board.png)  [](member_board.png)
+![ Alt text](screenshoots/member_board.png)  [](screenshoots/member_board.png)
 
 ## Presentation Screen:
 
-![ Alt text](presentation.png)  [](presentation.png)
+![ Alt text](screenshoots/presentation.png)  [](screenshoots/presentation.png)
 
 ## Appointment Screen:
 
-![ Alt text](appointment.png)  [](appointment.png)
+![ Alt text](screenshoots/appointment.png)  [](screenshoots/appointment.png)
 
 ## Personal Information Screen:
 
-![ Alt text](personal_information.png)  [](personal_information.png)
+![ Alt text](screenshoots/personal_information.png)  [](screenshoots/personal_information.png)
 
 <br />
 </a>
@@ -45,19 +45,19 @@ Weapon, pistol and equipments pictures taken from SIG SAUER 2023 Catalog
 
 ## Employee Login Screen:
 
-![ Alt text](login.png)  [](login.png)
+![ Alt text](screenshoots/login.png)  [](screenshoots/login.png)
 
 ## Employee Board Screen:
 
-![ Alt text](employee_board.png)  [](employee_board.png)
+![ Alt text](screenshoots/employee_board.png)  [](screenshoots/employee_board.png)
 
 ## Appointment Change Screen:
 
-![ Alt text](appointment_ccchange_list.png)  [](appointment_ccchange_list.png)
+![ Alt text](screenshoots/appointment_ccchange_list.png)  [](screenshoots/appointment_ccchange_list.png)
 
 ## Member List Screen:
 
-![ Alt text](member_list.png)  [](member_list.png)
+![ Alt text](screenshoots/member_list.png)  [](screenshoots/member_list.png)
 
 <br />
 </a>
@@ -66,25 +66,25 @@ Weapon, pistol and equipments pictures taken from SIG SAUER 2023 Catalog
 
 ## Admin Login Screen:
 
-![ Alt text](login.png)  [](login.png)
+![ Alt text](screenshoots/login.png)  [](screenshoots/login.png)
 
 ## Admin Board Screen:
 
-![ Alt text](admin_board.png)  [](admin_board.png)
+![ Alt text](screenshoots/admin_board.png)  [](screenshoots/admin_board.png)
 
 ## Admin Personal Information Screen:
 
-![ Alt text](admin_personal_information.png)  [](admin_personal_information.png)
+![ Alt text](screenshoots/admin_personal_information.png)  [](screenshoots/admin_personal_information.png)
 
 ## Appointment Change Screen:
 
-![ Alt text](appointment_ccchange_list.png)  [](appointment_ccchange_list.png)
+![ Alt text](screenshoots/appointment_ccchange_list.png)  [](screenshoots/appointment_ccchange_list.png)
 
 ## Equipment Screen:
 
-![ Alt text](equipment_list.png)  [](equipment_list.png)
+![ Alt text](screenshoots/equipment_list.png)  [](screenshoots/equipment_list.png)
 
 ## Maintenance Screen:
 
-![ Alt text](maintenance_list.png)  [](maintenance_list.png)
+![ Alt text](screenshoots/maintenance_list.png)  [](screenshoots/maintenance_list.png)
 
